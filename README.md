@@ -7,16 +7,18 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 **[Instructions here](https://github.com/caiton1/OSS-Doorway/blob/main/instructions.md)** 🗺️
 ---
 
-User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1725144046418.svg?)
+### Setup
+Requirnments:
+- Node.js 18+
+- npm 10+
+- MongoDB
 
-⚙️ Current Quest: 
-  - Q2 - Introducing yourself to the community
-    -  ~T1 - Choose an issue that you would like to work with~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/2)]
-    - T2 - Assign your user to work on the issue
-    - T3 - Post a comment in the issue introducing yourself
-    -  ~T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/3)]
+How to run:
+1. Run NPM start and go to generated link
+2. Follow instructions
+3. in .env create two entries (subject to change later)
+  - URI <-- uri to mongoDB
+  - DB_NAME <-- name of mongoDB
 
-
-Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q2null.png)
+#### Commands
+In issues tab, you can interact with basic bot functions, create a new issue and it will list available commands.
