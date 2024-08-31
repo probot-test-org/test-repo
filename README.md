@@ -8,14 +8,14 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1725144890390.svg?)
+  ![User Draft Stats](/userCards/draft-1725144917636.svg?)
 
 ⚙️ Current Quest: 
   - Q2 - Introducing yourself to the community
     -  ~T1 - Choose an issue that you would like to work with~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/21)]
     -  ~T2 - Assign your user to work on the issue~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/22)]
-    - T3 - Post a comment in the issue introducing yourself [[Click here to start](https://github.com/connman4027/test-repo/issues/23)]
-    - T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue
+    -  ~T3 - Post a comment in the issue introducing yourself~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/23)]
+    - T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue [[Click here to start](https://github.com/connman4027/test-repo/issues/24)]
 
 ✅ Completed Quests: 
   - Q1 - Exploring the GitHub World
@@ -26,4 +26,4 @@ User Stats:<br>
     - ~T5 - Explore the contributors~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/20)]
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q2T3.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q2T4.png)
