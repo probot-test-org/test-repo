@@ -8,13 +8,13 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1725144606387.svg?)
+  ![User Draft Stats](/userCards/draft-1725144685076.svg?)
 
 ⚙️ Current Quest: 
   - Q3 - Making your first contribution
     -  ~T1 - Solve the issue (upload a file/make commit)~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/13)]
-    - T2 - Post in issue asking for a review [[Click here to start](https://github.com/connman4027/test-repo/issues/14)]
-    - T3 - Close the issue
+    -  ~T2 - Post in issue asking for a review~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/14)]
+    - T3 - Close the issue [[Click here to start](https://github.com/connman4027/test-repo/issues/15)]
 
 ✅ Completed Quests: 
   - Q1 - Exploring the GitHub World
@@ -30,4 +30,4 @@ User Stats:<br>
     - ~T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/12)]
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q3T2.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q3T3.png)
