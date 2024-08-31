@@ -7,25 +7,18 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 **[Instructions here](https://github.com/caiton1/OSS-Doorway/blob/main/instructions.md)** 🗺️
 ---
 
-User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1725144711467.svg?)
+### Setup
+Requirnments:
+- Node.js 18+
+- npm 10+
+- MongoDB
 
-✅ Completed Quests: 
-  - Q1 - Exploring the GitHub World
-    - ~T1 - Explore the issue tracker~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/4)]
-    - ~T2 - Explore the pull-request menu~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/5)]
-    - ~T3 - Explore the fork button~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/6)]
-    - ~T4 - Explore the readme file~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/7)]
-    - ~T5 - Explore the contributors~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/8)]
-  - Q2 - Introducing yourself to the community
-    - ~T1 - Choose an issue that you would like to work with~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/9)]
-    - ~T2 - Assign your user to work on the issue~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/10)]
-    - ~T3 - Post a comment in the issue introducing yourself~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/11)]
-    - ~T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/12)]
-  - Q3 - Making your first contribution
-    - ~T1 - Solve the issue (upload a file/make commit)~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/13)]
-    - ~T2 - Post in issue asking for a review~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/14)]
-    - ~T3 - Close the issue~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/15)]
+How to run:
+1. Run NPM start and go to generated link
+2. Follow instructions
+3. in .env create two entries (subject to change later)
+  - URI <-- uri to mongoDB
+  - DB_NAME <-- name of mongoDB
 
-Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/F.png)
+#### Commands
+In issues tab, you can interact with basic bot functions, create a new issue and it will list available commands.
