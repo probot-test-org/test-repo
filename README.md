@@ -8,16 +8,16 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1725144158396.svg?)
+  ![User Draft Stats](/userCards/draft-1725144180943.svg?)
 
 ⚙️ Current Quest: 
   - Q1 - Exploring the GitHub World
     -  ~T1 - Explore the issue tracker~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/4)]
     -  ~T2 - Explore the pull-request menu~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/5)]
-    - T3 - Explore the fork button [[Click here to start](https://github.com/connman4027/test-repo/issues/6)]
-    - T4 - Explore the readme file
+    -  ~T3 - Explore the fork button~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/6)]
+    - T4 - Explore the readme file [[Click here to start](https://github.com/connman4027/test-repo/issues/7)]
     - T5 - Explore the contributors
 
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T3.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T4.png)
