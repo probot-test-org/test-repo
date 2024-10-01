@@ -7,17 +7,18 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 **[Instructions here](https://github.com/caiton1/OSS-Doorway/blob/main/instructions.md)** 🗺️
 ---
 
-User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1726690305533.svg?)
+### Setup
+Requirnments:
+- Node.js 18+
+- npm 10+
+- MongoDB
 
-⚙️ Current Quest: 
-  - Q1 - Exploring the GitHub World
-    -  ~T1 - Explore the issue tracker~ [[COMPLETED](https://github.com/connman4027/test-repo/issues/27)]
-    - T2 - Explore the pull-request menu [[Click here to start](https://github.com/connman4027/test-repo/issues/28)]
-    - T3 - Explore the fork button
-    - T4 - Explore the readme file
-    - T5 - Explore the contributors
+How to run:
+1. Run NPM start and go to generated link
+2. Follow instructions
+3. in .env create two entries (subject to change later)
+  - URI <-- uri to mongoDB
+  - DB_NAME <-- name of mongoDB
 
-
-Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q1T2.png)
+#### Commands
+In issues tab, you can interact with basic bot functions, create a new issue and it will list available commands.
