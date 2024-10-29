@@ -7,18 +7,10 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 **[Instructions here](https://github.com/caiton1/OSS-Doorway/blob/main/instructions.md)** 🗺️
 ---
 
-### Setup
-Requirnments:
-- Node.js 18+
-- npm 10+
-- MongoDB
+User Stats:<br>
+  ![User Draft Stats](/userCards/draft-1730238948705.svg?)
 
-How to run:
-1. Run NPM start and go to generated link
-2. Follow instructions
-3. in .env create two entries (subject to change later)
-  - URI <-- uri to mongoDB
-  - DB_NAME <-- name of mongoDB
+⚙️ Current Quest: 
+  - Q0 - Configuring your environment
+    - T1 - Environment Preferences [[Click here to start](https://github.com/probot-test-org/test-repo/issues/35)]
 
-#### Commands
-In issues tab, you can interact with basic bot functions, create a new issue and it will list available commands.
