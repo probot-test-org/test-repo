@@ -8,7 +8,7 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1730238948705.svg?)
+  ![User Draft Stats](/userCards/draft-1730239057922.svg?)
 
 ⚙️ Current Quest: 
   - Q0 - Configuring your environment
