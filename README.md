@@ -8,15 +8,15 @@ OSSDoorway quests and activities are designed to be accessible and inclusive, en
 ---
 
 User Stats:<br>
-  ![User Draft Stats](/userCards/draft-1733263246556.svg?)
+  ![User Draft Stats](/userCards/draft-1733263363683.svg?)
 
 ⚙️ Current Quest: 
   - Q2 - Introducing yourself to the community
     -  ~T1 - Choose an issue that you would like to work with~ [[COMPLETED](https://github.com/probot-test-org/test-repo/issues/10)]
     -  ~T2 - Assign your user to work on the issue~ [[COMPLETED](https://github.com/probot-test-org/test-repo/issues/12)]
     -  ~T3 - Post a comment in the issue introducing yourself~ [[COMPLETED](https://github.com/probot-test-org/test-repo/issues/43)]
-    - T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue [[Click here to start](https://github.com/probot-test-org/test-repo/issues/44)]
-    - Quiz - Quiz
+    -  ~T4 - Mention a contributor that has most recently been active in the project to help you to solve the issue~ [[COMPLETED](https://github.com/probot-test-org/test-repo/issues/43)]
+    - Quiz - Quiz [[Click here to start](https://github.com/probot-test-org/test-repo/issues/44)]
 
 ✅ Completed Quests: 
   - Q0 - Configuring your environment
@@ -30,4 +30,4 @@ User Stats:<br>
     - ~Quiz - Quiz~ [[COMPLETED](https://github.com/probot-test-org/test-repo/issues/9)]
 
 Quests Map:
-![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q2T4.png)
+![Quest Map](https://github.com/RESHAPELab/OSS-Doorway/blob/main/map/Q2Quiz.png)
