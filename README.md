@@ -1,5 +1,7 @@
 # JabRef Bibliography Management
 
+ADDED: this is my adding to the readme yay!
+
 JabRef is an open-source, cross-platform citation and reference management tool.
 
 Stay on top of your literature: JabRef helps you to collect and organize sources, find the paper you need and discover the latest research.
