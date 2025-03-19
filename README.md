@@ -6,6 +6,8 @@ Stay on top of your literature: JabRef helps you to collect and organize sources
 
 ![main table](docs/images/jabref-mainscreen.png)
 
+making an edit for testing
+
 ## Contributing
 
 [![dev-docs](https://img.shields.io/badge/dev-docs-blue)](https://devdocs.jabref.org/)
